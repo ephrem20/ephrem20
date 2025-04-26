@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Organization Hierarchy**
 
+- 🤝 I’m looking for help with [Build web application(API) for registering organization's employee hierarchy](https://github.com/gitdeme/perago-nestjs-api)
+
 - 👨‍💻 All of my projects are available at [https://github.com/ephrem20](https://github.com/ephrem20)
 
 - 📝 I regularly write articles on [portfolio45468.wordpress.com](portfolio45468.wordpress.com)
@@ -14,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/merhpe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merhpe_" height="30" width="40" /></a>
-<a href="https://linkedin.com/bereket-mengesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bereket-mengesha-12a409290" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bereket mengesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bereket mengesha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
