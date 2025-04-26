@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/merhpe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merhpe_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bereket mengesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bereket mengesha" height="30" width="40" /></a>
+<a href="https://instagram.com/e_ph_rem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_ph_rem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
