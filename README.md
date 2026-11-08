@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Trying to find my path/career</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephrem20&label=Profile%20views&color=0e75b6&style=flat" alt="ephrem20" /> </p>
 
-- 🔭 I’m currently working on **Organization Hierarchy**
-
-- 🤝 I’m looking for help with [Build web application(API) for registering organization's employee hierarchy](https://github.com/gitdeme/perago-nestjs-api)
+- 🔭 I’m currently working on **Hospital Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ephrem20](https://github.com/ephrem20)
-
-- 📝 I regularly write articles on [portfolio45468.wordpress.com](portfolio45468.wordpress.com)
 
 - 📫 How to reach me **ephremman051@gmail.com**
 
